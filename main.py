@@ -272,8 +272,6 @@ def connect_wallet():
     
     if(wallet_address.isalnum() and len(wallet_address) == 36):
         try:
-            network_choice = 'limanet'
-            wallet_address = 'tz1StU4agFj4cowJPB2dgyVPkjEJvYTYc1gc'
             pytezos_inst =  pytezos.using(shell=f"https://rpc.tzkt.io/{network_choice}", key=wallet_address)
             network_url = f"https://rpc.tzkt.io/{network_choice}"
 
