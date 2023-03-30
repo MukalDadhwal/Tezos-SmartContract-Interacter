@@ -9,7 +9,6 @@ PPT LINK - https://docs.google.com/presentation/d/1Oc4-RWmIZKQvh1ZeUMJPOZEqlmtER
 <br>
 
 ## Screenshots
-***
 
 <img align="center" src="assets/main_screen_sc.png" alt="desktop screenshot" style="height: 400px; width:px; margin-bottom:10px;"/>
 
